@@ -2,8 +2,6 @@ const { defineConfig } = require("cypress");
 
 const { Client } = require('pg')
 
-const pgp = require('pg-promise')();
-
 const connectDB = async (querys) => {
 
   const client = new Client({
