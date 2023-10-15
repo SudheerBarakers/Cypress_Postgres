@@ -76,3 +76,8 @@ Start your application and then run Cypress
       npx cypress open
 
 This will open the Cypress Test Runner, where you can select and run your database integration tests.
+
+## 7. Result
+
+![image](https://github.com/SudheerBarakers/Cypress_Postgres/assets/120264688/6d16cb9d-d026-49ef-9b98-6afb38c62781)
+
