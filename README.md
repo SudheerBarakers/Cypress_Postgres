@@ -4,7 +4,7 @@ To integrate Cypress with a PostgreSQL database, you'll need to follow a few ste
 
 # Here's a step-by-step guide:
 
-Install Cypress:
+1. Install Cypress:
 
 Make sure you have Cypress installed. You can do this via npm:
-## npm install cypress --save-dev
+      npm install cypress --save-dev
